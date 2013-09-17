@@ -1,28 +1,4 @@
-== README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+[ネタココ - 漫才・コントのネタ提供サイト - Google ドライブ](https://docs.google.com/document/d/1famsfFE2Tweue6p-tyFJE_9hidttzO-3FOlqhQ96xOc/edit#heading=h.olv3nbdjwa9q)
 
 
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+[ハガキ職人の人が書いたネタを実際に芸人にやってるとこ見たいなぁ。 - 焼肉リア充](http://kimihito.hatenablog.com/entry/2013/09/18/011726)
